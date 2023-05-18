@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import {Todos} from "./Componets/Todos";
-import {Users} from "./Componets/Users";
-import {User} from "./Componets/User";
+import {Todos} from "./componets/Todos";
+import {Users} from "./componets/Users";
+import {User} from "./componets/User";
 
 class App extends Component {
   render() {
