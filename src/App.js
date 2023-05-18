@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import {Todos} from "./componets/Todos";
-import {Users} from "./componets/Users";
-import {User} from "./componets/User";
+import {Users} from "./components/Users";
+import {User} from "./components/User";
+import {Todos} from "./components/Todos";
 
 class App extends Component {
   render() {
@@ -13,8 +13,8 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Welcome to React</h2>
         </div>
-        <User/>
         <Users/>
+        <User/>
         <Todos/>
       </div>
     );

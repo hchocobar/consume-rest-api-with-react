@@ -3,6 +3,8 @@
 ## Table of Contents
 
 - [Project Description](#project-description)
+  - [API](#api)
+  - [Examples](#examples)
 - [Folder Structure](#folder-structure)
 - [Sending Feedback](#sending-feedback)
 
@@ -18,7 +20,7 @@
 
 ### Examples
 
-🇪🇸 Cada componente es un ejemplo. Comenzamos con el código necesario para consumir una API y luego vamos ampliando el código agregando conceptos. 
+🇪🇸 Hay tres ejemplos, cada uno en la carpeta `src/components`. Comenzamos con el código necesario para consumir una API y luego vamos ampliando el código agregando conceptos. 
 
 ## Folder Structure
 
@@ -51,5 +53,5 @@ consume-rest-api-with-react/
 
 ## Sending Feedback
 
-We are always open to [your feedback](https://github.com/facebookincubator/create-react-app/issues).
+We are always open to [your feedback](https://chocobar.net).
 
